@@ -1,0 +1,32 @@
+name: catalogo_app
+description: Um aplicativo de catálogo inovador.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Adicione se for usar fontes do Google Fonts [4]
+  google_fonts: ^6.1.0 
+  
+  # Para requisições HTTP reais (não usado no exemplo, mas seria para o ProductRepository)
+  # http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Para carregar o arquivo JSON local [4]
+  assets:
+    - assets/products.json 
+    - assets/images/
+

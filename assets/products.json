@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone Ultra",
+    "description": "O mais novo smartphone com câmera de 108MP e tela OLED.",
+    "price": 3500.00,
+    "imageUrl": "https://m.media-amazon.com/images/I/51rPU0jDc0L._AC_SL1000_.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Notebook Gamer X",
+    "description": "Para jogos de alta performance com processador de última geração.",
+    "price": 7200.00,
+    "imageUrl": "https://m.media-amazon.com/images/I/51Wv-tEUn6L._AC_SL1000_.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Fone de Ouvido Sem Fio",
+    "description": "Cancelamento de ruído ativo e som imersivo.",
+    "price": 899.99,
+    "imageUrl": "https://m.media-amazon.com/images/I/4198pV2W7YL._AC_SY450_.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Smartwatch Pro",
+    "description": "Monitore sua saúde e receba notificações no pulso.",
+    "price": 1200.00,
+    "imageUrl": "https://m.media-amazon.com/images/I/51zuXVRFrDL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Tablet Multimídia",
+    "description": "Perfeito para trabalho e entretenimento, tela de 12 polegadas.",
+    "price": 2800.00,
+    "imageUrl": "https://m.media-amazon.com/images/I/51htrnqhgxL._AC_SL1000_.jpg"
+  }
+]
